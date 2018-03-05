@@ -28,7 +28,7 @@
 		img{
 			width: 100%;
 			height: 670px;
-			animation: ani 20s linear ;
+			animation: ani 25s linear ;
 			
 		}
 		@keyframes ani{

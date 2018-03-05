@@ -12,4 +12,4 @@ var img = document.getElementById('img');
 			document.getElementById('img').innerHTML ="<img src="+images[x-1]+">";	
 
 		}
-		setInterval(slide,2500);
+		setInterval(slide,3000);
