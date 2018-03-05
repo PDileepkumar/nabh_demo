@@ -31,7 +31,7 @@
 
 		img{
 			width: 100%;
-			height: 670px;
+			height: 100%;
 			transition: opacity 3000ms;
 			vertical-align: baseline;
 			animation: ani 25s linear ;
